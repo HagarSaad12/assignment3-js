@@ -1,0 +1,24 @@
+.title{
+    padding: 15px;
+    width: fit-content;
+    background-color: transparent;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    margin: auto;
+}
+section{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(purple,rgb(237, 174, 246));
+    overflow: auto;
+}
+.w-20{
+    width: 20%;
+}
+.btn-purple{
+    background-color: rgb(190, 87, 190);
+}
+a{
+    text-decoration:none ;
+    color: white;
+}
